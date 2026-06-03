@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/Inbyotech/',
+    base: '/inbyo-tech/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
