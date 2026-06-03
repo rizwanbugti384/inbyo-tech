@@ -1,0 +1,6 @@
+{
+  "name": "Inbyo Tech",
+  "description": "A modern, high-performance software and digital products agency creating scalable applications, AI solutions, and gorgeous user experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
